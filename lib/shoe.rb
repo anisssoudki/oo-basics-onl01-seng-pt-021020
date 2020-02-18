@@ -18,7 +18,7 @@ class Shoe
   def condition=(condition)
     
     @condition = condition
-    puts "the #{self}'s condition new"
+    puts "new"
   end
   
   def condition
