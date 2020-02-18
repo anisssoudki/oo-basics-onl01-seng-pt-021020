@@ -12,7 +12,7 @@ class Shoe
   
   def cobble=(cobble)
     @cobble = cobble
-    puts "#{self} has been repaired"
+    puts "the shoe has been repaired"
   end
   
   def condition=(condition)
