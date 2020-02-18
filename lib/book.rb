@@ -22,9 +22,14 @@ class Book
   end
   
   
+  
   def genre(book_genre)
     @genre = book_genre
   end
+  def genre 
+    @genre
+  end
+    
     
     end
 
