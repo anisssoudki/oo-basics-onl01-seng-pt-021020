@@ -11,7 +11,7 @@ class Book
     @author = author_name
   end
   def author
-    @author_name
+    @author
   end
   
   def page_count=(count)
