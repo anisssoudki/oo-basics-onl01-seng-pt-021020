@@ -17,3 +17,5 @@ class Shoe
     
     @condition = condition
     puts "the #{self}'s condition new"
+  end
+end
