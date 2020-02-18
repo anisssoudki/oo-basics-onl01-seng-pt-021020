@@ -10,8 +10,8 @@ class Shoe
     @brand = brand
   end
   
-  def cobble=(cobble)
-    @cobble = cobble
+  def cobble
+    
     puts "the shoe has been repaired"
   end
   
